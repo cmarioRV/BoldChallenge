@@ -1,0 +1,13 @@
+//
+//  Development.xcconfig
+//  BoldChallenge
+//
+//  Created by Mario Rúa on 24/02/23.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+API_BASE_URL = api.weatherapi.com/v1
+APP_NAME = $(inherited)-Dev
+API_TOKEN = de5553176da64306b86153651221606
